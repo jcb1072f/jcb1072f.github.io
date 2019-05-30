@@ -1,0 +1,14 @@
+body
+{
+    background-color: rgb(49,147,196);
+   color: rgb(215, 219, 226);
+   font-family: tahoma;
+}
+a:link
+{
+    text-decoration: none;
+}
+.center 
+{
+    text-align: center;
+}
